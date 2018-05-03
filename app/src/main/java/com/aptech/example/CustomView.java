@@ -15,6 +15,7 @@ import android.widget.LinearLayout;
 //https://www.tutorialspoint.com/android/android_audio_capture.htm
     //https://www.javatpoint.com/playing-video-in-android-example
     //https://www.tutorialspoint.com/android/android_camera.htm
+    //result - activity : https://www.javatpoint.com/android-startactivityforresult-example
 public class CustomView extends LinearLayout {
     public CustomView(Context context) {
         super(context);
