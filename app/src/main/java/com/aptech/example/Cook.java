@@ -1,10 +1,12 @@
 package com.aptech.example;
 
+import java.io.Serializable;
+
 /**
  * Created by Diep.Tran on 5/3/18.
  */
 
-public class Cook {
+public class Cook implements Serializable{
     String imageUrl;
     String title;
     String description;

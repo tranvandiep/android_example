@@ -81,8 +81,15 @@ public class MainActivity extends AppCompatActivity {
 
     void showNewActivity() {
         Intent intent = new Intent(MainActivity.this, ShowProfileActivity.class);
-        startActivity(intent);
+//        startActivity(intent);
+        startActivityForResult(intent, 100);
 //        overridePendingTransition(R.anim.anim_alpha, R.anim.anim_alpha);
+    }
+
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        super.onActivityResult(requestCode, resultCode, data);
+
     }
 
     @Override

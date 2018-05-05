@@ -11,16 +11,16 @@
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity" />
         <activity android:name=".ShowProfileActivity" />
-        <activity android:name=".ListViewActivity"></activity>
+        <activity android:name=".ListViewActivity" />
         <activity android:name=".CustomListViewActivity">
+        </activity>
+        <activity android:name=".CustomViewActivity"></activity>
+        <activity android:name=".SqlLiteActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity>
-        <activity android:name=".CustomViewActivity">
-
         </activity>
     </application>
 

@@ -20,5 +20,6 @@ public class ShowProfileActivity extends AppCompatActivity {
         //save
         String fullname = sharedPreferences.getString("fullname", "");
         txtFullname.setText(fullname);
+
     }
 }

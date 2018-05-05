@@ -1,23 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/Diep.Tran/workspace/Example_P1705L/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fi/values-fi.xml",
+            "outputFile": "/Users/Diep.Tran/workspace/Example/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fi/values-fi.xml",
             "map": [
                 {
-                    "source": "/Users/Diep.Tran/.gradle/caches/transforms-1/files-1.1/appcompat-v7-20.0.0.aar/de352b6ac026d42ad8efff4782cf1a59/res/values-fi/values.xml",
+                    "source": "/Users/Diep.Tran/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/46029943375bc4ff93a715369b32dc00/res/values-fi/values-fi.xml",
                     "from": {
-                        "startLines": "3,4,5,6,7,8,9,10,11,12,13,14,15",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "56,164,264,365,451,556,674,781,884,981,1087,1186,1290",
-                        "endColumns": "107,99,100,85,104,117,106,102,96,105,98,103,118",
-                        "endOffsets": "159,259,360,446,551,669,776,879,976,1082,1181,1285,1404"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,163,263,364,450,555,673,780,883,980,1086,1185,1289",
-                        "endColumns": "107,99,100,85,104,117,106,102,96,105,98,103,118",
-                        "endOffsets": "158,258,359,445,550,668,775,878,975,1081,1180,1284,1403"
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,163,271,394,494,595,681,786,904,991,1073,1153,1260,1363,1460,1566,1665,1769,1888,1987,2067",
+                        "endColumns": "107,107,122,99,100,85,104,117,86,81,79,106,102,96,105,98,103,118,98,79,100",
+                        "endOffsets": "158,266,389,489,590,676,781,899,986,1068,1148,1255,1358,1455,1561,1660,1764,1883,1982,2062,2163"
                     }
                 }
             ]
