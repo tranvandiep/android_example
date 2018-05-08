@@ -31,6 +31,8 @@
             </intent-filter>
         </activity>
 
+        <service android:name="com.aptech.example.CustomService" />
+
         <meta-data
             android:name="android.support.VERSION"
             android:value="26.1.0" />

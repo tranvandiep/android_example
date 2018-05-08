@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/Diep.Tran/workspace/Example/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /Users/Diep.Tran/workspace/Example/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /Users/Diep.Tran/workspace/Example/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /Users/Diep.Tran/workspace/Example/app/src/main/AndroidManifest.xml:2:1-27:12
+ADDED from /Users/Diep.Tran/workspace/Example/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/Diep.Tran/workspace/Example/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/Diep.Tran/workspace/Example/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/Diep.Tran/workspace/Example/app/src/main/AndroidManifest.xml:2:1-29:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Diep.Tran/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/46029943375bc4ff93a715369b32dc00/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/Diep.Tran/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/0207e3cc935710e08a304b4fb24aba98/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Diep.Tran/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/2a048ddb40fe8412e33fae238f83a5c7/AndroidManifest.xml:17:1-28:12
@@ -15,25 +15,25 @@ MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Diep.Tran/.gr
 MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Diep.Tran/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/355d7e701265cde56a8f6cfe0141a004/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] /Users/Diep.Tran/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/fbab1f9cce15aef4e7713f724a47ef6d/AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/Diep.Tran/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/1eeb23ac3b7c11277e213afca57d2a51/AndroidManifest.xml:17:1-30:12
-INJECTED from /Users/Diep.Tran/workspace/Example/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /Users/Diep.Tran/workspace/Example/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /Users/Diep.Tran/workspace/Example/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/Diep.Tran/workspace/Example/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/Diep.Tran/workspace/Example/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/Diep.Tran/workspace/Example/app/src/main/AndroidManifest.xml:2:1-29:12
 	package
 		ADDED from /Users/Diep.Tran/workspace/Example/app/src/main/AndroidManifest.xml:3:5-33
 		INJECTED from /Users/Diep.Tran/workspace/Example/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/Diep.Tran/workspace/Example/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/Diep.Tran/workspace/Example/app/src/main/AndroidManifest.xml
-		ADDED from /Users/Diep.Tran/workspace/Example/app/src/main/AndroidManifest.xml:2:1-27:12
+		ADDED from /Users/Diep.Tran/workspace/Example/app/src/main/AndroidManifest.xml:2:1-29:12
 		INJECTED from /Users/Diep.Tran/workspace/Example/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/Diep.Tran/workspace/Example/app/src/main/AndroidManifest.xml
-		ADDED from /Users/Diep.Tran/workspace/Example/app/src/main/AndroidManifest.xml:2:1-27:12
+		ADDED from /Users/Diep.Tran/workspace/Example/app/src/main/AndroidManifest.xml:2:1-29:12
 		INJECTED from /Users/Diep.Tran/workspace/Example/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/Diep.Tran/workspace/Example/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/Diep.Tran/workspace/Example/app/src/main/AndroidManifest.xml:5:5-25:19
+ADDED from /Users/Diep.Tran/workspace/Example/app/src/main/AndroidManifest.xml:5:5-27:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Diep.Tran/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/46029943375bc4ff93a715369b32dc00/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Diep.Tran/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/46029943375bc4ff93a715369b32dc00/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/Diep.Tran/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/0207e3cc935710e08a304b4fb24aba98/AndroidManifest.xml:9:5-20
@@ -102,6 +102,10 @@ category#android.intent.category.LAUNCHER
 ADDED from /Users/Diep.Tran/workspace/Example/app/src/main/AndroidManifest.xml:22:17-77
 	android:name
 		ADDED from /Users/Diep.Tran/workspace/Example/app/src/main/AndroidManifest.xml:22:27-74
+service#com.aptech.example.CustomService
+ADDED from /Users/Diep.Tran/workspace/Example/app/src/main/AndroidManifest.xml:26:9-49
+	android:name
+		ADDED from /Users/Diep.Tran/workspace/Example/app/src/main/AndroidManifest.xml:26:18-47
 uses-sdk
 INJECTED from /Users/Diep.Tran/workspace/Example/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/Diep.Tran/workspace/Example/app/src/main/AndroidManifest.xml
